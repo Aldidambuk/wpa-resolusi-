@@ -2,3 +2,4 @@ wpa resolusi
 - satu minggu kepedpan saya akan melatih dasar-dasar pengaplikasian github
 - membuat berbagai projet dengan teman kelompok di kampus 
 - mempelajari python programing, pandas libarary, numpy library, google colab dan lainya
+- membeli buku untuk referensi tugas 
